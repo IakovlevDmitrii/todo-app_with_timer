@@ -1,8 +1,9 @@
 # Учебный проект
 В рамках программы изучения React
 
-### Цель:
-Изучение React
+### Цели:
+- Изучение React
+- Использовать библиотеку [date-fns](https://date-fns.org/)
 
 ### Задание:
 Добавить в [ToDo приложение](https://github.com/IakovlevDmitrii/todo) таймер
@@ -12,7 +13,6 @@
 > - CSS
 > - JS
 > - React
-> - Ant Design
 > - #### Webpack
 >> - Babel
 >> - ESLint
